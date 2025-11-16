@@ -1,0 +1,36 @@
+{
+  "services": [
+    {
+      "id": 1234,
+      "social": "instagram",
+      "name": "Instagram Followers \u2013 HQ",
+      "category": "Instagram / Followers",
+      "visible": true,
+      "enabled": true,
+      "order": 1,
+      "markup": 1.4,
+      "min": 100,
+      "max": 10000,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 5678,
+      "social": "tiktok",
+      "name": "TikTok Likes \u2013 Fast",
+      "category": "TikTok / Likes",
+      "visible": true,
+      "enabled": true,
+      "order": 2,
+      "price": 1.99,
+      "min": 100,
+      "max": 50000,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    }
+  ]
+}
