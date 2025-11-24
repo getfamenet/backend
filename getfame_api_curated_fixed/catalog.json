@@ -1,0 +1,324 @@
+{
+  "services": [
+    {
+      "id": 1810,
+      "social": "instagram",
+      "name": "Instagram Followers \u2013 MIX USA (HQ)",
+      "category": "Instagram / Followers",
+      "enabled": true,
+      "visible": true,
+      "order": 10,
+      "min": 50,
+      "max": 200000,
+      "markup": 1.5,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 1910,
+      "social": "instagram",
+      "name": "Instagram Likes \u2013 MIX USA (Fast)",
+      "category": "Instagram / Likes",
+      "enabled": true,
+      "visible": true,
+      "order": 11,
+      "min": 50,
+      "max": 500000,
+      "markup": 1.45,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 5952,
+      "social": "instagram",
+      "name": "Instagram RAF\u2122 Followers (Non-Drop)",
+      "category": "Instagram / Followers (RAF)",
+      "enabled": true,
+      "visible": true,
+      "order": 12,
+      "min": 100,
+      "max": 50000,
+      "markup": 2.2,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 0,
+      "social": "tiktok",
+      "name": "TikTok Views \u2013 500 Pack",
+      "category": "TikTok / Views",
+      "enabled": true,
+      "visible": true,
+      "order": 20,
+      "min": 500,
+      "max": 500,
+      "price": 2.0,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 0,
+      "social": "tiktok",
+      "name": "TikTok Views \u2013 1K Pack",
+      "category": "TikTok / Views",
+      "enabled": true,
+      "visible": true,
+      "order": 21,
+      "min": 1000,
+      "max": 1000,
+      "price": 1.29,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 0,
+      "social": "tiktok",
+      "name": "TikTok Views \u2013 2.5K Pack",
+      "category": "TikTok / Views",
+      "enabled": true,
+      "visible": true,
+      "order": 22,
+      "min": 2500,
+      "max": 2500,
+      "price": 2.0,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 0,
+      "social": "tiktok",
+      "name": "TikTok Views \u2013 5K Pack",
+      "category": "TikTok / Views",
+      "enabled": true,
+      "visible": true,
+      "order": 23,
+      "min": 5000,
+      "max": 5000,
+      "price": 4.0,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 0,
+      "social": "tiktok",
+      "name": "TikTok Views \u2013 10K Pack",
+      "category": "TikTok / Views",
+      "enabled": true,
+      "visible": true,
+      "order": 24,
+      "min": 10000,
+      "max": 10000,
+      "price": 8.0,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 0,
+      "social": "tiktok",
+      "name": "TikTok Views \u2013 25K Pack",
+      "category": "TikTok / Views",
+      "enabled": true,
+      "visible": true,
+      "order": 25,
+      "min": 25000,
+      "max": 25000,
+      "price": 15.0,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 0,
+      "social": "tiktok",
+      "name": "TikTok Views \u2013 50K Pack",
+      "category": "TikTok / Views",
+      "enabled": true,
+      "visible": true,
+      "order": 26,
+      "min": 50000,
+      "max": 50000,
+      "price": 30.0,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 10110,
+      "social": "coinmarketcap",
+      "name": "CoinMarketCap Followers (HQ)",
+      "category": "CoinMarketCap / Followers",
+      "enabled": true,
+      "visible": true,
+      "order": 30,
+      "min": 10,
+      "max": 100000,
+      "markup": 2.0,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 10077,
+      "social": "coinmarketcap",
+      "name": "CoinMarketCap Followers (Alt)",
+      "category": "CoinMarketCap / Followers",
+      "enabled": true,
+      "visible": true,
+      "order": 31,
+      "min": 10,
+      "max": 100000,
+      "markup": 1.9,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 7600,
+      "social": "coinmarketcap",
+      "name": "CMC Watchlist Followers (Max 250K)",
+      "category": "CoinMarketCap / Watchlist",
+      "enabled": true,
+      "visible": true,
+      "order": 32,
+      "min": 10,
+      "max": 250000,
+      "markup": 1.9,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 7599,
+      "social": "coinmarketcap",
+      "name": "CMC Watchlist (Max 500K)",
+      "category": "CoinMarketCap / Watchlist",
+      "enabled": true,
+      "visible": true,
+      "order": 33,
+      "min": 10,
+      "max": 500000,
+      "markup": 1.9,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 9416,
+      "social": "coinmarketcap",
+      "name": "CMC Profile Followers",
+      "category": "CoinMarketCap / Profile",
+      "enabled": true,
+      "visible": true,
+      "order": 34,
+      "min": 10,
+      "max": 50000,
+      "markup": 2.0,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 9414,
+      "social": "coinmarketcap",
+      "name": "CMC Post Likes",
+      "category": "CoinMarketCap / Posts",
+      "enabled": true,
+      "visible": true,
+      "order": 35,
+      "min": 10,
+      "max": 50000,
+      "markup": 1.8,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 9415,
+      "social": "coinmarketcap",
+      "name": "CMC Post Views",
+      "category": "CoinMarketCap / Posts",
+      "enabled": true,
+      "visible": true,
+      "order": 36,
+      "min": 10,
+      "max": 1000000,
+      "markup": 1.8,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 9419,
+      "social": "coinmarketcap",
+      "name": "CMC Post Repost",
+      "category": "CoinMarketCap / Posts",
+      "enabled": true,
+      "visible": true,
+      "order": 37,
+      "min": 10,
+      "max": 50000,
+      "markup": 1.8,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 9418,
+      "social": "coinmarketcap",
+      "name": "CMC Watchlist Followers (Alt)",
+      "category": "CoinMarketCap / Watchlist",
+      "enabled": true,
+      "visible": true,
+      "order": 38,
+      "min": 10,
+      "max": 50000,
+      "markup": 1.9,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    },
+    {
+      "id": 9417,
+      "social": "coinmarketcap",
+      "name": "CMC Watchlist (Alt)",
+      "category": "CoinMarketCap / Watchlist",
+      "enabled": true,
+      "visible": true,
+      "order": 39,
+      "min": 10,
+      "max": 50000,
+      "markup": 1.9,
+      "fields": [
+        "link",
+        "quantity"
+      ]
+    }
+  ]
+}
